@@ -1,0 +1,44 @@
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Distribution
+build/
+dist/
+*.egg-info/
+
+# Environment variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# macOS metadata
+.DS_Store
+__MACOSX/
+
+# IDE
+.vscode/
+.idea/
